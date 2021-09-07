@@ -165,7 +165,7 @@ class Login extends React.Component {
                         <small>Forgot password?</small>
                       </a>
                     </Col>
-                    <Col className="text-right" xs="6">
+                    {/* <Col className="text-right" xs="6">
                       <a
                         className="text-light"
                         href="#pablo"
@@ -173,7 +173,7 @@ class Login extends React.Component {
                       >
                         <small>Create new account</small>
                       </a>
-                    </Col>
+                    </Col> */}
                   </Row>
                 </Col>
               </Row>
